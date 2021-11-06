@@ -2,8 +2,8 @@ name: postal
 
 images:
   main:
-    name: adamcooke/postal
-    tag: docker
+    name: ghcr.io/postalserver/postal
+    tag: latest
 
 commands:
   console:
